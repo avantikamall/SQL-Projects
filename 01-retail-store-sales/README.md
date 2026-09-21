@@ -36,7 +36,6 @@ This project analyzes retail transaction data from a fictional Smart Retail Stor
 **Payment Analysis:** Payment-mode frequency and customer payment preferences
 
 ## KPI Report
-
 | KPI | Description |
 |---|---|
 | Total Orders | Total number of transaction records |
@@ -44,6 +43,7 @@ This project analyzes retail transaction data from a fictional Smart Retail Stor
 | Average Order Value | Average transaction amount |
 | Highest Sale | Maximum transaction amount |
 | Lowest Sale | Minimum transaction amount |
+
 
 ## Key Findings
 
