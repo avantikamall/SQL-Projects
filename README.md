@@ -13,3 +13,4 @@ A collection of SQL projects focused on business analysis, reporting, customer b
 ## Skills
 
 **SQL | MySQL | Data Analysis | Business Analysis | Aggregations | Joins | Subqueries | KPI Reporting**
+<img width="1377" height="322" alt="image" src="https://github.com/user-attachments/assets/7afc4e14-d5ef-4175-9d24-253f81b29499" />
